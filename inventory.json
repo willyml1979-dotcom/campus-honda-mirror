@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Honda",
-  "generated_at": "2026-10-26T07:20:11",
+  "generated_at": "2026-10-26T07:28:55",
   "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1124,7 +1124,7 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "new",
-      "price": 53647.0,
+      "price": 53646.0,
       "price_currency": "CAD"
     },
     {
@@ -1135,7 +1135,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "new",
-      "price": 64724.0,
+      "price": 64723.0,
       "price_currency": "CAD"
     },
     {
@@ -1157,7 +1157,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "new",
-      "price": 69087.0,
+      "price": 69086.0,
       "price_currency": "CAD"
     },
     {
@@ -1168,7 +1168,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "new",
-      "price": 68537.0,
+      "price": 68536.0,
       "price_currency": "CAD"
     },
     {
@@ -1179,7 +1179,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "new",
-      "price": 69087.0,
+      "price": 69086.0,
       "price_currency": "CAD"
     },
     {
@@ -1190,7 +1190,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "new",
-      "price": 70587.0,
+      "price": 70586.0,
       "price_currency": "CAD"
     },
     {
@@ -1223,7 +1223,7 @@
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "new",
-      "price": 60511.0,
+      "price": 60510.0,
       "price_currency": "CAD"
     },
     {
@@ -1234,7 +1234,7 @@
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "new",
-      "price": 60511.0,
+      "price": 60510.0,
       "price_currency": "CAD"
     },
     {
@@ -1399,7 +1399,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 55088.0,
+      "price": 55087.0,
       "price_currency": "CAD"
     },
     {
@@ -1443,7 +1443,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 43143.0,
+      "price": 43142.0,
       "price_currency": "CAD"
     },
     {
@@ -1454,7 +1454,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 42593.0,
+      "price": 42592.0,
       "price_currency": "CAD"
     },
     {
@@ -1564,7 +1564,7 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "new",
-      "price": 66008.0,
+      "price": 66007.0,
       "price_currency": "CAD"
     },
     {
@@ -1575,7 +1575,7 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "new",
-      "price": 65458.0,
+      "price": 65457.0,
       "price_currency": "CAD"
     },
     {
@@ -1597,7 +1597,7 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "new",
-      "price": 58808.0,
+      "price": 58807.0,
       "price_currency": "CAD"
     }
   ]
