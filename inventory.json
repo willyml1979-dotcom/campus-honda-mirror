@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Honda",
-  "generated_at": "2026-11-18T07:23:05",
+  "generated_at": "2026-11-18T09:09:38",
   "vehicle_count": 157,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -633,29 +633,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
+      "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H76TH247469",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/1e3fa1f6a2c2.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 52767.0,
+      "price": 52766.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
+      "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H75TH247480",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/feae8bcd4501.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 52767.0,
+      "price": 52766.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
+      "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H78TH247022",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/3c19a7f94179.html",
       "year": 2026,
@@ -666,7 +666,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
+      "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H72TH247307",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/4b8e57129415.html",
       "year": 2026,
@@ -677,7 +677,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
+      "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H79TH247286",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/5be0ebada1b6.html",
       "year": 2026,
@@ -688,25 +688,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid Touring AWD",
+      "name": "2026 Honda CR-V Hybrid TOURING",
       "vin": "2HKRS6H98TH247331",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/df9f0f0b9f23.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 55267.0,
+      "price": 55266.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Honda CR-V Hybrid EX-L AWD",
+      "name": "2026 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H76TH248198",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/37313032440d.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 52766.0,
+      "price": 52087.0,
       "price_currency": "CAD"
     },
     {
@@ -1249,25 +1249,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda CR-V Hybrid EX-L AWD",
+      "name": "2027 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H76VH202325",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/1431d24fecd3.html",
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 52588.0,
+      "price": 52587.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda CR-V Hybrid EX-L AWD",
+      "name": "2027 Honda CR-V Hybrid EX-L",
       "vin": "2HKRS6H75VH202297",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/04f2574ceddb.html",
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
       "condition": "new",
-      "price": 52588.0,
+      "price": 52587.0,
       "price_currency": "CAD"
     },
     {
@@ -1425,14 +1425,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H54VM100495",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/f6f051bbcbec.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 40343.0,
+      "price": 40342.0,
       "price_currency": "CAD"
     },
     {
@@ -1469,36 +1469,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H55VM101929",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/0893b42f57d4.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 40343.0,
+      "price": 40342.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H53VM103680",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/38a140f12ffa.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 40343.0,
+      "price": 40342.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H53VM103565",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/166964851dbf.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 40343.0,
+      "price": 40342.0,
       "price_currency": "CAD"
     },
     {
@@ -1513,25 +1513,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H59VM107331",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/64d9c334d96a.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 40343.0,
+      "price": 40342.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Honda HR-V Sport AWD",
+      "name": "2027 Honda HR-V SPORT",
       "vin": "3CZRZ2H54VM107396",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/new/44d5a01699d3.html",
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
       "condition": "new",
-      "price": 39793.0,
+      "price": 39792.0,
       "price_currency": "CAD"
     },
     {
