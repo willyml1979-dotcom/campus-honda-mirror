@@ -1,7 +1,7 @@
 {
   "dealership": "Campus Honda",
-  "generated_at": "2026-11-18T09:09:38",
-  "vehicle_count": 157,
+  "generated_at": "2026-11-18T15:49:46",
+  "vehicle_count": 156,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -68,7 +68,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "used",
-      "price": 12595.0,
+      "price": 12375.0,
       "price_currency": "CAD"
     },
     {
@@ -112,7 +112,7 @@
       "make": "Honda",
       "model": "Accord",
       "condition": "used",
-      "price": 24595.0,
+      "price": 24375.0,
       "price_currency": "CAD"
     },
     {
@@ -123,7 +123,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "used",
-      "price": 19493.0,
+      "price": 20485.0,
       "price_currency": "CAD"
     },
     {
@@ -135,17 +135,6 @@
       "model": "RAV4",
       "condition": "used",
       "price": 17595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota Yaris Hatchback LE | Local Vehicle | Clean History",
-      "vin": "VNKKTUD3XJA094760",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/6c49c5a88df2.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Yaris Hatchback LE",
-      "condition": "used",
-      "price": 15595.0,
       "price_currency": "CAD"
     },
     {
@@ -222,7 +211,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 26095.0,
+      "price": 25895.0,
       "price_currency": "CAD"
     },
     {
@@ -475,7 +464,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 45990.0,
+      "price": 44990.0,
       "price_currency": "CAD"
     },
     {
