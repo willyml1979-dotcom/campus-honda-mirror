@@ -1,30 +1,41 @@
 {
   "dealership": "Campus Honda",
-  "generated_at": "2026-11-17T23:55:27",
-  "vehicle_count": 148,
+  "generated_at": "2026-11-18T07:23:05",
+  "vehicle_count": 157,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2008 Honda Element SC | BC Vehicle | Clean History",
-      "vin": "5J6YH18928L800890",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/03b8f3e8db64.html",
-      "year": 2008,
-      "make": "Honda",
-      "model": "Element SC",
-      "condition": "used",
-      "price": 15595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2008 Honda Fit ",
-      "vin": "JHMGD372X8S803618",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/4269646e12d3.html",
+      "name": "2008 Honda Fit LX | One Local Owner | Campus Serviced | Low KMS",
+      "vin": "JHMGD38418S807394",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/95203c83c3b1.html",
       "year": 2008,
       "make": "Honda",
       "model": "Fit",
       "condition": "used",
-      "price": 11095.0,
+      "price": 13595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2009 Honda Fit LX | One Local Owner | Clean History",
+      "vin": "JHMGE88559S811467",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/d67ea2a8a5f4.html",
+      "year": 2009,
+      "make": "Honda",
+      "model": "Fit",
+      "condition": "used",
+      "price": 10595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2013 Honda Fit LX | One Local Owner | Campus Serviced",
+      "vin": "LUCGE8H59D3008452",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/6ea9ebba0deb.html",
+      "year": 2013,
+      "make": "Honda",
+      "model": "Fit",
+      "condition": "used",
+      "price": 13595.0,
       "price_currency": "CAD"
     },
     {
@@ -35,7 +46,7 @@
       "make": "Chrysler",
       "model": "200 4dr Sdn LX FWD",
       "condition": "used",
-      "price": 12595.0,
+      "price": 12375.0,
       "price_currency": "CAD"
     },
     {
@@ -61,9 +72,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Honda CR-V AWD 5dr EX | One Local Owner | Clean History",
-      "vin": "2HKRW2H56HH140876",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/002d9b819f39.html",
+      "name": "2017 Honda CR-V EX | AWD | One Owner | Clean History",
+      "vin": "2HKRW2H56HH114374",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/71a87081facc.html",
+      "year": 2017,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 16595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Honda CR-V Touring | One Local Owner | Campus Serviced",
+      "vin": "2HKRW2H99HH119216",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/d0dacd553228.html",
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
@@ -79,18 +101,7 @@
       "make": "Honda",
       "model": "Ridgeline",
       "condition": "used",
-      "price": 31595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Toyota Tundra 4WD Double Cab | Island Vehicle | Clean History",
-      "vin": "5TFUY5F19HX595702",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/d5da9d307d8b.html",
-      "year": 2017,
-      "make": "Toyota",
-      "model": "Tundra 4WD Double Cab",
-      "condition": "used",
-      "price": 40595.0,
+      "price": 31375.0,
       "price_currency": "CAD"
     },
     {
@@ -105,17 +116,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Honda Civic Sedan ",
-      "vin": "2HGFC2F55JH037978",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/65c8297afc1c.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 21595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Toyota C-HR XLE | One Local Owner | Low KMS",
       "vin": "NMTKHMBX2JR062144",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/2f5b4288ce52.html",
@@ -127,14 +127,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Ford Escape SE FWD | Local Vehicle | Low KMS",
-      "vin": "1FMCU0GD6KUC12032",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/5bc8d9b92dfb.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Escape",
+      "name": "2018 Toyota RAV4 LE FWD | One Owner | Local Vehicle",
+      "vin": "2T3ZFREV3JW408326",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/3f729cb5a847.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "RAV4",
       "condition": "used",
-      "price": 16893.0,
+      "price": 17595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Toyota Yaris Hatchback LE | Local Vehicle | Clean History",
+      "vin": "VNKKTUD3XJA094760",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/6c49c5a88df2.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Yaris Hatchback LE",
+      "condition": "used",
+      "price": 15595.0,
       "price_currency": "CAD"
     },
     {
@@ -145,11 +156,44 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 30595.0,
+      "price": 28990.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Lexus NX NX 300 | No Accidents",
+      "name": "2019 Hyundai Santa Fe Essential | BC Vehicle | Clean History | AWD",
+      "vin": "5NMS2CAD6KH098959",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/ad2e9306996e.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 17595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Jeep Cherokee Trailhawk Elite | One Owner | 4WD",
+      "vin": "1C4PJMBX7KD210166",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/5c0342a50435.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 21595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Jeep Grand Cherokee Altitude | Low KMS | Clean History | 4WD",
+      "vin": "1C4RJFAG2KC823484",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/1d0b4c589088.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 26595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Lexus NX NX 300 2WD | Premium | California Vehicle",
       "vin": "JTJGARBZ5L5006215",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/bd7a1d09b338.html",
       "year": 2020,
@@ -160,14 +204,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Accord Hybrid Hybrid Base | One Local Owner | Clean History",
-      "vin": "1HGCV3F45NA800127",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/e1b2a4008e10.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Accord Hybrid Hybrid",
+      "name": "2021 Ford Explorer XLT | One Local Owner | 4WD",
+      "vin": "1FMSK8DH6MGA47818",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/e8e18d19c6ee.html",
+      "year": 2021,
+      "make": "Ford",
+      "model": "Explorer",
       "condition": "used",
-      "price": 32095.0,
+      "price": 25595.0,
       "price_currency": "CAD"
     },
     {
@@ -189,7 +233,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 27595.0,
+      "price": 26595.0,
       "price_currency": "CAD"
     },
     {
@@ -204,14 +248,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Chevrolet Equinox RS AWD | Island Vehicle | Clean History",
-      "vin": "3GNAXWEG7PS133065",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/d1a9dd7e7664.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Equinox",
+      "name": "2022 Honda Civic Sedan Sport | One Local Owner | Clean History",
+      "vin": "2HGFE2F53NH124536",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/854c4b03a09c.html",
+      "year": 2022,
+      "make": "Honda",
+      "model": "Civic",
       "condition": "used",
-      "price": 30485.0,
+      "price": 27595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Honda Civic Sedan Sport | One Local Owner | Clean History",
+      "vin": "2HGFE2F59NH125173",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/8ea16677bf66.html",
+      "year": 2022,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 27095.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Honda Civic Sedan Sport",
+      "vin": "2HGFE2F57PH108942",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/5d1deff6f377.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 27595.0,
       "price_currency": "CAD"
     },
     {
@@ -222,29 +288,40 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 32493.0,
+      "price": 32485.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda Odyssey EX-L Auto | One Local Owner | Clean History",
-      "vin": "5FNRL6H62PB503342",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/7e9203501ab3.html",
+      "name": "2023 Honda CR-V EX-L AWD | One Local Owner | Clean History",
+      "vin": "2HKRS4H70PH119335",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/565b8a003224.html",
       "year": 2023,
       "make": "Honda",
-      "model": "Odyssey",
+      "model": "CR-V",
       "condition": "used",
-      "price": 45595.0,
+      "price": 35485.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia K5 GT | BC Vehicle | Clean History",
-      "vin": "5XXG44J85PG187534",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/907f7c5d66f4.html",
+      "name": "2023 Honda Pilot Touring AWD | One Local Owner | Campus Serviced",
+      "vin": "5FNYG1H7XPB500989",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/86d55dd590e4.html",
       "year": 2023,
-      "make": "Kia",
-      "model": "K5",
+      "make": "Honda",
+      "model": "Pilot",
       "condition": "used",
-      "price": 24493.0,
+      "price": 49595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Honda Ridgeline Touring | Island Vehicle | Low KMS | AWD",
+      "vin": "5FPYK3F76PB503229",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/076387f4214f.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "condition": "used",
+      "price": 49595.0,
       "price_currency": "CAD"
     },
     {
@@ -259,6 +336,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Honda Civic Sedan Sport | One Local Owner | Clean History",
+      "vin": "2HGFE2F56RH106523",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/f009622ff1e3.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 29895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Honda CR-V Sport | One Local Owner | Clean History",
+      "vin": "2HKRS4H54RH118805",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/e33cc2108127.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 37595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Honda Accord Hybrid Touring | One Local Owner | Campus Serviced",
+      "vin": "1HGCY2F86SA800251",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/445d938e2583.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Accord Hybrid",
+      "condition": "used",
+      "price": 41485.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Honda Civic Sedan Hybrid Sport Touring eCVT | One Local Owner | Low KMS",
       "vin": "2HGFE4F87SH000948",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/64b2cb0c7473.html",
@@ -270,14 +380,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda CR-V LX | One Local Owner | Campus Serviced",
-      "vin": "2HKRS4H27SH100570",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/2961905521f0.html",
+      "name": "2025 Honda Civic Sedan Hybrid Sport | One Local Owner | Clean History",
+      "vin": "2HGFE4F81SH001190",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/64d2b0869ed6.html",
       "year": 2025,
       "make": "Honda",
-      "model": "CR-V",
+      "model": "Civic Hybrid",
       "condition": "used",
-      "price": 35485.0,
+      "price": 32595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Honda Civic Sedan Hybrid Sport Touring | One Local Owner | Campus Serviced",
+      "vin": "2HGFE4F89SH014379",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/e9eed59382a5.html",
+      "year": 2025,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "used",
+      "price": 31595.0,
       "price_currency": "CAD"
     },
     {
@@ -288,7 +409,7 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "used",
-      "price": 55095.0,
+      "price": 53990.0,
       "price_currency": "CAD"
     },
     {
@@ -299,40 +420,18 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23485.0,
+      "price": 22485.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks Play SV | One BC Owner | Clean History",
-      "vin": "3N1CP5CV4SL479772",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/42a22296a613.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 23485.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda Civic Hatchback Hybrid Sport Touring | One Local Owner | Campus Serviced",
-      "vin": "JHMFL4H96TX800193",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/a1b99ad5f104.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 39485.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid TrailSport AWD | Current Service Loaner",
+      "name": "2026 Honda CR-V Hybrid TrailSport | Current Service Loaner | Accessorized",
       "vin": "2HKRS6H68TH203626",
       "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/8b2d9a6ae207.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 50990.0,
+      "price": 48990.0,
       "price_currency": "CAD"
     },
     {
@@ -343,7 +442,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 47990.0,
+      "price": 46990.0,
       "price_currency": "CAD"
     },
     {
@@ -354,18 +453,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 47990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid TrailSport AWD | Current Service Loaner",
-      "vin": "2HKRS6H66TH212096",
-      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/93604e7ce6db.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 48990.0,
+      "price": 46990.0,
       "price_currency": "CAD"
     },
     {
@@ -376,7 +464,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 47990.0,
+      "price": 46990.0,
       "price_currency": "CAD"
     },
     {
@@ -960,6 +1048,17 @@
       "model": "Ridgeline",
       "condition": "new",
       "price": 59960.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Highlander Hybrid Hybrid XLE | One Local Owner | Clean History",
+      "vin": "5TDKBRCH0TS720764",
+      "url": "https://willyml1979-dotcom.github.io/campus-honda-mirror/used/7318525a5d70.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Highlander Hybrid Hybrid",
+      "condition": "used",
+      "price": 63595.0,
       "price_currency": "CAD"
     },
     {
